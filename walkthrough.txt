@@ -1,0 +1,16 @@
+To win the game:
+1. Move around the game area to find items and a car. Use for example command go west to move one area to the west.
+2. Pick up items, for example command get keys to pick up the keys.
+Items in the game:
+-Battery, Gasoline and keys: You need them to repair the car.
+-Knife, Penknife and Pocketknife: You need them to survive the killers attack on you.
+-Bandage and Firstaid: You need them to heal yourself if you're hurt because of the killers attack on you.
+3. Stay alive. You die:
+- If the killer attacks you and you neither have a knife item (knife, penknife, pocketknife) nor are you driving thye car. 
+  You survive an attack with a knife but it will be removed. You also get hurt. If you are driving the car, it protects you from damage but you can't continue driving before the killer is elsewhere.
+- If you have played 20 turns while you're hurt. You can heal yourself with bandage or firstaid item by using command heal. The used item will be removed.
+- If you have played 200 turns which is the game's time limit.
+4. Fix the car by adding the key, battery and gasoline item to it. For example add battery to add the battery.
+5. Start the fixed car with command start.
+6. Drive to the south exit to win the game. For example command drive south to drive one area to the south.
+   Notice that the killer can still attack you. If that happens, try to get the killer go elsewhere (move around and hope the killer moves away) so that you can continue driving.
